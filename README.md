@@ -1,2 +1,2 @@
-# github-para-programadores
+# Github Para Programadores
 Ejercicios curso github-para-programadores
